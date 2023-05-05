@@ -16,6 +16,8 @@
 
   ## LAN(Local Area Network) -> Rede local. Ex.: Empresa, casa
 
-  ## MAN -> São redes que interligam regiões metropolitanas
+  ## MAN(Metropolitan Area Network) -> São redes que interligam regiões metropolitanas
+
+  ## WAN (Wide Area Netwoks) – permitem a interligação de redes locais, metropolitanas e equipamentos de rede, numa grande área geográfica (ex. país, continente, etc).
 
   ## SAN -> São redes usadas para armazenamento de arquivos. Ex.: backups, servidores de arquivos etc.
